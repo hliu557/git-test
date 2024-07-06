@@ -17,6 +17,7 @@ public class Main {
         System.out.println(str);
         System.out.println(str2);
         System.out.println(str.equals(str2));
+        System.out.println(2);
 
 
     }
